@@ -1,3 +1,6 @@
+## Second Virial Coefficients
+![Second](images/SecondVirial.png)
+
 ## Welcome to GitHub Pages
 
 How can you use [editor on GitHub](https://github.com/xixihaha1995/Visualization/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -21,12 +24,10 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+
+
 **Bold** and _Italic_ and `Code` text
-https://github.com/xixihaha1995/Visualization/blob/master/images/SecondVirial.png?raw=true
-![Image of Yaktocat](https://github.com/xixihaha1995/Visualization/blob/master/images/SecondVirial.png)
-![Image of Yaktocat](https://github.com/xixihaha1995/Visualization/blob/master/images/SecondVirial.png?raw=true)
-[https://github.com/xixihaha1995/Visualization/blob/master/images/SecondVirial.png?raw=true](https://github.com/xixihaha1995/Visualization/blob/master/images/SecondVirial.png?raw=true) and ![Image](src)
-[/Visualization/images/SecondVirial.png] and ![Image]
+
 
 ![](images/SecondVirial.png)
 ![](/images/SecondVirial.png)
