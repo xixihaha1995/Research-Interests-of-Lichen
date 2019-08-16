@@ -24,7 +24,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-[images/SecondVirial.png] and ![Image]
+[/images/SecondVirial.png] and ![Image]
+![GitHub Logo](/images/SecondVirial.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
