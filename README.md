@@ -1,5 +1,7 @@
 ## Second Virial Coefficients
-![Second](images/SecondVirial.png)
+![](images/SecondVirial.png)
+## Finite Volume Methods
+|<img src="images/10000.png" alt="alt text" width="400" height="250">)|<img src="images/1000vsmall.png" alt="alt text" width="400" height="250">
 
 ## Welcome to GitHub Pages
 
