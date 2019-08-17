@@ -1,9 +1,10 @@
 ## Second Virial Coefficients
 ![](images/SecondVirial.png)
 ## Finite Volume Methods
-<img src="images/10000.png" alt="alt text" width="400" height="250" class="center"><img src="images/1000vsmall.png" alt="alt text" width="400" height="250" class="center">
+<img src="images/1000vsmall.png" alt="alt text" width="400" height="250" class="center"><img src="images/1000.png" alt="alt text" width="400" height="250" class="center">
 ## Gasussian Process
-![](images/gp.png)
+![](images/gptarget.png)
+![](images/gpoptimization.png)
 
 ## Welcome to GitHub Pages
 
@@ -45,4 +46,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and weâ€™ll help you sort it out.
