@@ -16,6 +16,7 @@ how to understand k-$\epsilon$
 
 how to tune in hyperparemeters?
 how to decrease big O notation?
+how to calculate convariance? if we have infinite variables
 
 ## Welcome to GitHub Pages
 
