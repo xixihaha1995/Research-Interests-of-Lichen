@@ -1,8 +1,9 @@
 ## Second Virial Coefficients
 ![](images/SecondVirial.png)
 ## Finite Volume Methods
-|<img src="images/10000.png" alt="alt text" width="400" height="250" class="center">|<img src="images/1000vsmall.png" alt="alt text" width="400" height="250" class="center">|
-
+<img src="images/10000.png" alt="alt text" width="400" height="250" class="center"><img src="images/1000vsmall.png" alt="alt text" width="400" height="250" class="center">
+## Gasussian Process
+![](images/gp.png)
 
 ## Welcome to GitHub Pages
 
