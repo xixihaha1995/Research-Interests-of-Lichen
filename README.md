@@ -18,6 +18,8 @@ how to tune in hyperparemeters?
 how to decrease big O notation?
 how to calculate convariance? if we have infinite variables
 
+## Ubuntu(linux)
+$HOME , this is one command, direct you to the root dicrectory of your current user.
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
