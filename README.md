@@ -20,6 +20,7 @@ how to calculate convariance? if we have infinite variables
 
 ## Ubuntu(linux)
 $HOME , this is one command, direct you to the root dicrectory of your current user.
+\\wsl$\: visist Ubuntu directly form windows 10 Explorers
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
