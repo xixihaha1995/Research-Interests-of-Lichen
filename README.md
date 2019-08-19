@@ -23,6 +23,8 @@ $HOME , this is one command, direct you to the root dicrectory of your current u
 
 ''\\wsl$\: visist Ubuntu directly form windows 10 Explorers''
 
+## Qt wmake
 
+头文件格式和意义
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
