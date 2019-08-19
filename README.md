@@ -1,4 +1,4 @@
-#Welcome
+# Welcome
 
 ## Second Virial Coefficients
 ![](images/SecondVirial.png)
@@ -24,6 +24,9 @@ how to calculate convariance? if we have infinite variables
 $HOME , this is one command, direct you to the root dicrectory of your current user.
 
 ''\\wsl$\: visist Ubuntu directly form windows 10 Explorers''
+
+## CFD
+simulationType are laminar, RAS and LES
 
 ### Qt wmake
 
