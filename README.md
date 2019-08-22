@@ -8,6 +8,9 @@ why fminsearch in matlab is so different with optimize.fmin in python
 ## Finite Volume Methods
 <img src="images/1000vsmall.png" alt="alt text" width="400" height="250" class="center"><img src="images/1000.png" alt="alt text" width="400" height="250" class="center">
 
+## BuoyantEffect
+<img src="images/ezgif-2-09c37c986467.gif" alt="alt text" width="400" height="250" class="center">
+
 how to mesh 3D problems?
 how to write simple algorithms
 how to understand k-$\epsilon$
