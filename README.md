@@ -1,6 +1,8 @@
 
 # Welcome
-
+$(document).ready(function() {
+    $('#some-menu').load('matlabwebpage/SIMPLEcorrect.html');
+});
 ## HotroomBoussinesq
 <table><tr><td><img src='images/hotbuoalpha.gif'></td><td><img src='images/hotBuou.gif'></td></tr></table>
 
