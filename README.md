@@ -11,7 +11,7 @@
 ## Finite Volume Methods
 <table><tr><td><img src='images/1000vsmall.png' alt="alt text" width="410" height="250"></td><td><img src='images/1000.png' alt="alt text" width="410" height="250"></td></tr></table>
 
-## <a href="matlabwebpage/SIMPLEcorrect.html/">Semi Implicit Methods for Pressure Linked Equations</a>
+## <a href="matlabwebpage/SIMPLEcorrect.html/">Semi-Implicit Methods for Pressure Linked Equations</a>
 <table><tr><td><img src='images/uA.jpg'></td><td><img src='images/uB.jpg'></td><td><img src='images/p2.jpg'></td></tr></table>
 
 
