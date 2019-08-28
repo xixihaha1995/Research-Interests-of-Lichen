@@ -29,25 +29,28 @@ Governing equations: Navier-Stokes equations.
 * https://www.youtube.com/watch?v=xPnzJ4gt9eE
 * http://ftp.demec.ufpr.br/disciplinas/TM702/Versteeg_Malalasekera_2ed.pdf
 
-## HotroomBoussinesq
-<table><tr><td><img src='images/hotbuoalpha.gif'></td><td><img src='images/hotBuou.gif'></td></tr></table>
-
-## BuoyantEffect Details
-<img src="images/ezgif-2-09c37c986467.gif" alt="alt text" width="1200" height="500" class="center">
-
-
-## HotroomRadiation
-<table><tr><td><img src='images/initial.png'></td><td><img src='images/steady.png'></td></tr></table>
-
-### References:
-* https://cfd.direct/openfoam/user-guide/v7-standard-solvers/#x13-1030003.5.7
-
-
 ## Second Virial Coefficients
 ![](images/SecondVirial.png)
 
 ### References:
 An Introduction to Applied Statistical Thermodynamics by Stanley I. Sandler
+
+<p align="center">
+  <img src="images/CFDfoundationLogoDark-600x600.png">
+</p>
+
+## HotroomBoussinesq-OpenFOAM
+<table><tr><td><img src='images/hotbuoalpha.gif'></td><td><img src='images/hotBuou.gif'></td></tr></table>
+
+## BuoyantEffect-OpenFOAM
+<img src="images/ezgif-2-09c37c986467.gif" alt="alt text" width="1200" height="500" class="center">
+
+
+## HotroomRadiation-OpenFOAM
+<table><tr><td><img src='images/initial.png'></td><td><img src='images/steady.png'></td></tr></table>
+
+### References:
+* https://cfd.direct/openfoam/user-guide/v7-standard-solvers/#x13-1030003.5.7
 
 
 
@@ -64,14 +67,6 @@ how to tune in hyperparemeters?
 how to decrease big O notation?
 
 how to calculate convariance? if we have infinite variables
-
-
-### Ubuntu(linux)
-$HOME , this is one command, direct you to the root dicrectory of your current user.
-
-''\\wsl$\: visist Ubuntu directly form windows 10 file explorer''
-
-Qt wmake
-
+### Linux 
   
 
