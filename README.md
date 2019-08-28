@@ -55,7 +55,7 @@ An Introduction to Applied Statistical Thermodynamics by Stanley I. Sandler
 
 
 ## Courses
-|   	|   	| |
+|   ENME	|  Name 	| Year|
 |:-:	|:-:	|:-: |
 |  ENME605 	|  Advanced Systems Control   	| Fall 2019     |
 |  ENME640 	|  Fundamentals of Fluids Mechanics	| Fall 2019 |
