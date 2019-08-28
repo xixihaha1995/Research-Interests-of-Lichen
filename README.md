@@ -10,20 +10,20 @@
 <table><tr><td><img src='images/initial.png'></td><td><img src='images/steady.png'></td></tr></table>
 
 ### References:
-https://cfd.direct/openfoam/user-guide/v7-standard-solvers/#x13-1030003.5.7
+* https://cfd.direct/openfoam/user-guide/v7-standard-solvers/#x13-1030003.5.7
 
 ## Finite Volume Methods
 <table><tr><td><img src='images/1000vsmall.png' alt="alt text" width="410" height="250"></td><td><img src='images/1000.png' alt="alt text" width="410" height="250"></td></tr></table>
 
 ### References:
-https://github.com/barbagroup/CFDPython/blob/master/README.md
+* https://github.com/barbagroup/CFDPython/blob/master/README.md
 
 ## <a href="matlabwebpage/SIMPLEcorrect.html/">Semi-Implicit Methods for Pressure Linked Equations</a>
 <table><tr><td><img src='images/uA.jpg'></td><td><img src='images/uB.jpg'></td><td><img src='images/p2.jpg'></td></tr></table>
 
 ### References:
-https://www.youtube.com/watch?v=xPnzJ4gt9eE
-http://ftp.demec.ufpr.br/disciplinas/TM702/Versteeg_Malalasekera_2ed.pdf
+* https://www.youtube.com/watch?v=xPnzJ4gt9eE
+* http://ftp.demec.ufpr.br/disciplinas/TM702/Versteeg_Malalasekera_2ed.pdf
 
 ## Second Virial Coefficients
 ![](images/SecondVirial.png)
@@ -36,9 +36,8 @@ An Introduction to Applied Statistical Thermodynamics by Stanley I. Sandler
 ![](images/gpoptimization.png)
 
 ### References:
-https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_prior_posterior.html#sphx-glr-auto-examples-gaussian-process-plot-gpr-prior-posterior-py
-
-https://github.com/fmfn/BayesianOptimization
+* https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_prior_posterior.html#sphx-glr-auto-examples-gaussian-process-plot-gpr-prior-posterior-py
+* https://github.com/fmfn/BayesianOptimization
 
 
 ## Questions for next step
