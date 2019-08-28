@@ -12,7 +12,7 @@ Governing equations: Navier-Stokes equations.
 * https://en.wikipedia.org/wiki/Derivation_of_the_Navier%E2%80%93Stokes_equations
 * https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations
 
-## Gasussian Process or Global Optimization 
+## Gasussian Process or Global Optimization from Machine Learning
 <p align="center">
   <img src="images/gptarget.png">
   <img src="images/gpoptimization.png">
@@ -51,6 +51,20 @@ An Introduction to Applied Statistical Thermodynamics by Stanley I. Sandler
 
 ### References:
 * https://cfd.direct/openfoam/user-guide/v7-standard-solvers/#x13-1030003.5.7
+
+
+
+## Courses
+|   	|   	| |
+|:-:	|:-:	|:-: |
+|  ENME605 	|  Advanced Systems Control   	| Fall 2019     |
+|  ENME640 	|  Fundamentals of Fluids Mechanics	| Fall 2019 |
+|  ENPM652 	|  Finite Element Methods 	| Summer 2019  |
+|  ENME633 |   Molecular Thermodynamics| Spring 2019   |
+|  ENME635 |   Energy Systems Analysis | Spring 2019   |
+|  ENME701 |  Sustainable Energy Conversion| Fall 2018   |
+|  ENME743 |   Applied Machine Learning for Engineering and Design| Fall 2018   |
+|  ENME670 |   Continuum Mechanics | Fall 2019   |
 
 
 
