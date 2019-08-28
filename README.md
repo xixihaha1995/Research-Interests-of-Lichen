@@ -32,8 +32,10 @@
 An Introduction to Applied Statistical Thermodynamics by Stanley I. Sandler
 
 ## Gasussian Process or Global Optimization 
-![](images/gptarget.png)
-![](images/gpoptimization.png)
+<p align="center">
+  <img src="images/gptarget.png">
+  <img src="images/gpoptimization.png">
+</p>
 
 ### References:
 * https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_prior_posterior.html#sphx-glr-auto-examples-gaussian-process-plot-gpr-prior-posterior-py
