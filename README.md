@@ -55,7 +55,9 @@ An Introduction to Applied Statistical Thermodynamics by Stanley I. Sandler
 
 
 ## Courses
-
+<p align="center">
+  <img src="images/course.png">
+</p>
 
 
 
