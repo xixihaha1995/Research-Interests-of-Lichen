@@ -2,8 +2,6 @@
 ## HotroomBoussinesq
 <table><tr><td><img src='images/hotbuoalpha.gif'></td><td><img src='images/hotBuou.gif'></td></tr></table>
 
-
-
 ## BuoyantEffect Details
 <img src="images/ezgif-2-09c37c986467.gif" alt="alt text" width="1200" height="500" class="center">
 
@@ -27,12 +25,6 @@ https://github.com/barbagroup/CFDPython/blob/master/README.md
 https://www.youtube.com/watch?v=xPnzJ4gt9eE
 http://ftp.demec.ufpr.br/disciplinas/TM702/Versteeg_Malalasekera_2ed.pdf
 
-[comment]: <> (
-how to mesh 3D problems?
-how to write simple algorithms
-how to understand k-$\epsilon$
-)
-
 ## Second Virial Coefficients
 ![](images/SecondVirial.png)
 
@@ -45,14 +37,8 @@ An Introduction to Applied Statistical Thermodynamics by Stanley I. Sandler
 
 ### References:
 https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_prior_posterior.html#sphx-glr-auto-examples-gaussian-process-plot-gpr-prior-posterior-py
-https://github.com/fmfn/BayesianOptimization
 
-[comment]: <> (
-why fminsearch in matlab is so different with optimize.fmin in python
-how to tune in hyperparemeters?
-how to decrease big O notation?
-how to calculate convariance? if we have infinite variables
-)
+https://github.com/fmfn/BayesianOptimization
 
 
 ## Questions for next step
@@ -60,6 +46,15 @@ how to calculate convariance? if we have infinite variables
 ### CFD
 simulationType are laminar, RAS and LES
 what is tolerances, relax factor?
+### Optimization
+why fminsearch in matlab is so different with optimize.fmin in python
+
+how to tune in hyperparemeters?
+
+how to decrease big O notation?
+
+how to calculate convariance? if we have infinite variables
+
 
 ### Ubuntu(linux)
 $HOME , this is one command, direct you to the root dicrectory of your current user.
@@ -67,15 +62,6 @@ $HOME , this is one command, direct you to the root dicrectory of your current u
 ''\\wsl$\: visist Ubuntu directly form windows 10 file explorer''
 
 Qt wmake
-
-
-
-[comment]: <> (
-头文件格式和意义
-how to tune in hyperparemeters?
-how to decrease big O notation?
-how to calculate convariance? if we have infinite variables
-)
 
   
 
