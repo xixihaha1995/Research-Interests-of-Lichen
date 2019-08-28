@@ -35,18 +35,17 @@ Governing equations: Navier-Stokes equations.
 ### References:
 An Introduction to Applied Statistical Thermodynamics by Stanley I. Sandler
 
-<p align="center">
-  <img src="images/CFDfoundationLogoDark-600x600.png">
-</p>
 
-## HotroomBoussinesq-OpenFOAM
+## HotroomBoussinesq-OpenFOAM<img src="images/CFDfoundationLogoDark-600x600.png" width="30" height="30">
+
+
 <table><tr><td><img src='images/hotbuoalpha.gif'></td><td><img src='images/hotBuou.gif'></td></tr></table>
 
-## BuoyantEffect-OpenFOAM
+## BuoyantEffect-OpenFOAM<img src="images/CFDfoundationLogoDark-600x600.png" width="30" height="30">
 <img src="images/ezgif-2-09c37c986467.gif" alt="alt text" width="1200" height="500" class="center">
 
 
-## HotroomRadiation-OpenFOAM
+## HotroomRadiation-OpenFOAM<img src="images/CFDfoundationLogoDark-600x600.png" width="30" height="30">
 <table><tr><td><img src='images/initial.png'></td><td><img src='images/steady.png'></td></tr></table>
 
 ### References:
