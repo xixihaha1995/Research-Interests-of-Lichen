@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="images/Capture.PNG">
+  <img src="images/Capture1.PNG">
+  <img src="images/Capture2.PNG">
+</p>
+
+
 
 ## HotroomBoussinesq
 <table><tr><td><img src='images/hotbuoalpha.gif'></td><td><img src='images/hotBuou.gif'></td></tr></table>
