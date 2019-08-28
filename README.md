@@ -31,7 +31,7 @@ http://ftp.demec.ufpr.br/disciplinas/TM702/Versteeg_Malalasekera_2ed.pdf
 ### References:
 An Introduction to Applied Statistical Thermodynamics by Stanley I. Sandler
 
-## Gasussian Process or Global Optimization
+## Gasussian Process or Global Optimization 
 ![](images/gptarget.png)
 ![](images/gpoptimization.png)
 
