@@ -3,6 +3,7 @@ Governing equations: Navier-Stokes equations.
 <p align="center">
   <img src="images/Capture1.PNG">
   <img src="images/Capture2.PNG">
+  <img src="images/Capture3.PNG">
 </p>
 <table><tr><td><img src='images/1000vsmall.png' alt="alt text" width="410" height="250"></td><td><img src='images/1000.png' alt="alt text" width="410" height="250"></td></tr></table>
 
