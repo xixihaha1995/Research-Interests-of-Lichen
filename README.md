@@ -1,3 +1,12 @@
+## Shan-Chen gas liquid model
+
+
+<table><tr><td><img src='images/Webp.net-gifmaker.gif'></td><td><img src='images/den.gif'></td></tr></table>
+
+### References:
+* https://github.com/shurikkuzmin/LatticeBoltzmannMethod
+
+
 ## Finite Volume Methods
 Governing equations: Navier-Stokes equations.
 <p align="center">
