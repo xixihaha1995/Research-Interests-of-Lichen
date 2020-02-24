@@ -3,7 +3,7 @@
 
 <table><tr><td><img src='images/Webp.net-gifmaker.gif'></td><td><img src='images/den.gif'></td></tr></table>
 
-<a href="test.pdf">PDF online</a>
+<a href="Lichen_Wu.pdf">My resume/CV</a>
 
 
 ### References:
