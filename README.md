@@ -1,4 +1,4 @@
-# <center><a href="Lichen_Wu.pdf">CV</a></center>
+# <center><a href="Lichen_Wu.pdf">CV</a></center>*--updated 02.24.2020*
 
 <center>*updated 02.24.2020*</center>
 
