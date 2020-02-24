@@ -1,9 +1,14 @@
+##
+<center>
+  <a href="Lichen_Wu.pdf">My resume/CV</a>
+  </center>
+
 ## Shan-Chen gas liquid model
 
 
 <table><tr><td><img src='images/Webp.net-gifmaker.gif'></td><td><img src='images/den.gif'></td></tr></table>
 
-<a href="Lichen_Wu.pdf">My resume/CV</a>
+
 
 
 ### References:
