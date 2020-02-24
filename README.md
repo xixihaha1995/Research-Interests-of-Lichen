@@ -1,7 +1,4 @@
-##
-<center>
-  <a href="Lichen_Wu.pdf">My resume/CV</a>
-  </center>
+##<center><a href="Lichen_Wu.pdf">Resume/CV</a></center>
 
 ## Shan-Chen gas liquid model
 
