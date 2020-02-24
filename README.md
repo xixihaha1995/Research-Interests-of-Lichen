@@ -3,6 +3,9 @@
 
 <table><tr><td><img src='images/Webp.net-gifmaker.gif'></td><td><img src='images/den.gif'></td></tr></table>
 
+<a href="test.pdf">PDF online</a>
+
+
 ### References:
 * https://github.com/shurikkuzmin/LatticeBoltzmannMethod
 
