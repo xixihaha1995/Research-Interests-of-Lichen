@@ -1,4 +1,6 @@
 # <center><a href="Lichen_Wu.pdf">CV</a></center>
+<center>--updated 02.24.2020</center>
+
 
 ## Shan-Chen gas liquid model(Lattice-Boltzmann Methods)
 
