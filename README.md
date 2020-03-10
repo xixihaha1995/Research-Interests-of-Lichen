@@ -1,5 +1,9 @@
 # <center><a href="Lichen_Wu.pdf">CV</a></center>*--updated 02.24.2020*
 
+## Droplet Impact Dynamics-OpenFOAM<img src="images/CFDfoundationLogoDark-600x600.png" width="30" height="30">
+**Playback speed 1E-3*
+<img src="images/drop.gif" alt="alt text" width="1200" height="500" class="center">
+
 
 ## Shan-Chen gas liquid model(Lattice-Boltzmann Methods)
 
