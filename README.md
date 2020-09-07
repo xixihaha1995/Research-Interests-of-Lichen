@@ -1,6 +1,6 @@
 # <center><a href="Lichen_Wu.pdf">CV</a></center>*--updated 02.24.2020*
 
-## Percolation-CS61B-SP20
+## Percolation（can be used for Monte Carlo Simulations)-CS61B-SP20
 <p align="center">
 <img src="images/percolation.gif" alt="alt text" width="500" height="500" class="center">
 </p>
